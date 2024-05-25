@@ -1,0 +1,57 @@
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Form1.resources
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Login_form.resources
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Main_form.resources
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Resources.resources
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Register.resources
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\bin\Debug\Eventdb.mdf
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\bin\Debug\Eventdb_log.ldf
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\bin\Debug\Event planning Management System.exe.config
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\bin\Debug\Event planning Management System.exe
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\bin\Debug\Event planning Management System.pdb
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\bin\Debug\Event planning Management System.xml
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event planning Management System.exe
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event planning Management System.xml
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event planning Management System.pdb
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Admin_home.resources
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Admin_login.resources
+c:\users\hcl\documents\visual studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Service.resources
+C:\Users\HCL\Documents\Visual Studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.delevent.resources
+C:\Users\HCL\Documents\Visual Studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.update_event.resources
+C:\Users\HCL\Documents\Visual Studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.custregister.resources
+C:\Users\HCL\Documents\Visual Studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.event_register.resources
+C:\Users\HCL\Documents\Visual Studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Addevent.resources
+C:\Users\HCL\Documents\Visual Studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Manage_event.resources
+C:\Users\HCL\Documents\Visual Studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Schedule_eventvb.resources
+C:\Users\HCL\Documents\Visual Studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Payment.resources
+C:\Users\HCL\Documents\Visual Studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Receipt.resources
+C:\Users\HCL\Documents\Visual Studio 2010\Projects\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.delete_schedule.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\bin\Debug\Event planning Management System.exe.config
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event planning Management System.exe
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event planning Management System.xml
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event planning Management System.pdb
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\bin\Debug\Eventdb.mdf
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\bin\Debug\Eventdb_log.ldf
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\bin\Debug\Event planning Management System.exe
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\bin\Debug\Event planning Management System.pdb
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\bin\Debug\Event planning Management System.xml
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event planning Management System.vbprojResolveAssemblyReference.cache
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Addevent.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Admin_home.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Admin_login.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.custregister.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.delevent.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.event_register.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Form1.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Payment.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Receipt.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Schedule_eventvb.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Login_form.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Main_form.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Resources.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Register.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.Service.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event_planning_Management_System.update_event.resources
+C:\Users\91636\Downloads\Event planning Management System\Event planning Management System\obj\x86\Debug\Event planning Management System.vbproj.GenerateResource.Cache
